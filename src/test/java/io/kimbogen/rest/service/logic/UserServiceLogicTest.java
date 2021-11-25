@@ -1,4 +1,4 @@
-package io.kimbogeun.rest.service.logic;
+package io.kimbogen.rest.service.logic;
 
 import io.kimbogen.rest.UserRestApplication;
 import io.kimbogen.rest.entity.User;
